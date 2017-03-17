@@ -1,0 +1,32 @@
+Commands used -
+
+pwd - gives present working directory
+mkdir - create a directory
+cd - change directory
+ls - list directory
+rmdir - remove directory
+pushd <addr> - push <addr> on my current working directory
+popd - revert back to last working directory
+touch - create new item
+cp - copy file
+mv - move file
+less - view a file
+cat - stream a file
+rm - remove a file
+exit - exiting terminal
+ssh - connecting to remote computer
+scp - quick transfer of single files
+chown - change file owner and group
+chgrp - change group ownership
+chmod - change permission of file or directory
+git init - initializes a git repository
+git clone - makes a git repository copy from a remote source
+git add - add files changes in working directory to index
+git rm - remove files from index and working directory so they won't be tracked
+git commit - takes all changes written  in index, creates a new commit object pointing to it and sets the branch to point to that new commit
+git status - shows the status of files in the index versus the directory
+git branch - lists existing branches
+git merge - merges one or more branches into current branch and automatically creates a new commit if there are no conflicts
+git log - shows listing of commits on a branch including corresponding details
+git push - pushes all modified local objects to remote repository and advances its branches
+git pull - fetches the files from the remote repository and merges it with local one.
